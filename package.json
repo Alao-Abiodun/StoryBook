@@ -1,0 +1,19 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "description": "The app use to write story about your accomplishment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alao-Abiodun/StoryBook.git"
+  },
+  "author": "Alao-Abiodun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alao-Abiodun/StoryBook/issues"
+  },
+  "homepage": "https://github.com/Alao-Abiodun/StoryBook#readme"
+}
